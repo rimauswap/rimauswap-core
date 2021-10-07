@@ -1,2 +1,2 @@
 # rimauswap-core
-RimauSwap DEX Factory and supporting contracts
+Core contracts repository for the RimauSwap dex.
